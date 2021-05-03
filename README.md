@@ -4,6 +4,6 @@ This Repository contains small project which are used in almost every websites u
 | ------------- |:-------------:      | -----:                                                                   |
 | 1             | Button Hover Effect | [Click me](https://gautam25raj.github.io/Small-Projects/Button%20Hover/) |
 | 2             | DropDown Menu       | [Click me](https://gautam25raj.github.io/Small-Projects/Dropdown/)       |
-| 3             | Pop-Up Window       | [Click me](https://github.com/Gautam25Raj/Small-Projects/Pop%20up/)       |
+| 3             | Pop-Up Window       | [Click me](https://gautam25raj.github.io/Small-Projects/Pop%20up/)       |
 
 
