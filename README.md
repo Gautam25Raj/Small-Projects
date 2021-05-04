@@ -6,4 +6,5 @@ This Repository contains small project which are used in almost every websites u
 | 2             | DropDown Menu       | [Click me](https://gautam25raj.github.io/Small-Projects/Dropdown/)       |
 | 3             | Pop-Up Window       | [Click me](https://gautam25raj.github.io/Small-Projects/Pop%20up/)       |
 | 4             | Progress Bar        | [Click me](https://gautam25raj.github.io/Small-Projects/Progress%20Bar)  |
+| 5             | Coming Soon         | [Click me](https://github.com/Gautam25Raj/Small-Projects)                |
 
