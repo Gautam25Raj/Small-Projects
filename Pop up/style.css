@@ -8,14 +8,14 @@
   padding: 0;
 }
 
-body {
+/* body {
   font-family: "Poppins";
   width: 100%;
   background-image: url("Flat-Mountains.svg");
   background-position: bottom;
   background-size: 120%;
   background-repeat: no-repeat;
-}
+} */
 
 section {
   height: 100vh;
@@ -127,4 +127,3 @@ section {
   position: absolute;
   top: 150px;
 }
-
